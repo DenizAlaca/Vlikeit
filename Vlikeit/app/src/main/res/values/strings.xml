@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">VLikeit</string>
+
+    <string name="sorunmuvar">Sorun mu var?</string>
+    <string name="bizeulasin">Bize Ulaşın</string>
+    <string name="gorevlistesi">Görev Listesi</string>
+    <string name="hesapdetaylari">Hesap Detayları</string>
+    <string name="profil">Profil</string>
+    <string name="anasayfa">Ana Sayfa</string>
+    <string name="oduller">Ödüller</string>
+    <string name="kayitol">Kayıt Ol</string>
+    <string name="girisyap">Giriş Yap</string>
+    <string name="sifremiunuttum">Şifremi Unuttum</string>
+    <string name="sifremisifirla">Şifremi Sıfırla</string>
+    <string name="dogrula">Doğrula</string>
+    <string name="degisikliklerikaydet">Değişiklikleri Kaydet</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="gorselsec">Görsel Seç</string>
+    <string name="gorselackapa">Görseli Aç</string>
+    <string name="yukle">Yükle</string>
+    <string name="email">E-mail</string>
+    <string name="kullaniciid">Kullanıcı ID</string>
+    <string name="kullaniciadi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="steamurl">Steam Trade URL</string>
+    <string name="guncelle">Güncelle</string>
+    <string name="merhabatext">Merhaba!</string>
+    <string name="geridon">Geri Dön</string>
+    <string name="katil">Katıl</string>
+    <string name="goreviyap">Görevi Yap</string>
+    <string name="odulekatilimcisayisi">Ödüle Katılımcı Sayısı</string>
+
+    <string name="starter1">Hoş Geldin!</string>
+    <string name="starter2">Görevleri incele, beğendiklerini tamamla bize gönder.</string>
+    <string name="starter3">En kısa sürede inceleyelim, onaylayalım.</string>
+    <string name="starter4">Ödüllere katıl, kazancını katla!</string>
+    <string name="starter5">Hepsi bu kadar! Artık başlayabilirsin!</string>
+
+
+    <string name="freecashtext">Freecash.com yüzlerce görev yapabileceğiniz bir ek gelir sitesidir.</string>
+    <string name="bitpandatext">Bitpanda.com Türkiyedeki güvenilir kripto borsalarından bir tanesidir.</string>
+    <string name="okxtext">Okx.com promosyonlarıyla gündeme gelen bir kripto borsasıdır.</string>
+
+
+    <string name="ornekgorsel">Örnek Görsel</string>
+
+
+    <string name="kodaciklama">Mailinize Gelen Kod</string>
+    <string name="dogrulamakodual">Doğrulama Kodu Al</string>
+    <string name="maildogrulamasi">Mail Doğrulaması</string>
+
+
+    <string name="teklifler">Teklifler</string>
+    <string name="teklif1">Teklif 1</string>
+    <string name="teklif2">Teklif 2</string>
+    <string name="teklif3">Teklif 3</string>
+    <string name="teklif1odul">Teklif 1 Ödül</string>
+    <string name="teklif2odul">Teklif 2 Ödül</string>
+    <string name="teklif3odul">Teklif 3 Ödül</string>
+    <string name="guncelletext">Kullanmaya devam etmek için güncelleme yapmalısınız.</string>
+
+    <string name="kazananlarigoruntule">Tüm Kazananları Görüntüle</string>
+
+    <string name="odulicinyapilacaklar">Ödül İçin Yapılacaklar</string>
+    <string name="beniteklifeyonlendir">Beni Teklife Yönlendir</string>
+
+    <string name="freecashdetay1">1- Freecash.com sitesine veya mobil uygulamasına kayıt olun.</string>
+    <string name="freecashdetay2">2- Referans kodu kısmına vlikeit yazın.</string>
+    <string name="freecashdetay3">3- Çeşitli görevler yaparak ödüle destek olun.</string>
+    <string name="freecashdetay4">4- Profilinize girip General başlığı altında bulunan bilgilerin gözüktüğü bir ekran görüntüsü alın.</string>
+    <string name="freecashdetay5">5- Ekran görüntüsünü Görevi Yap butonuna tıklayıp yükleyin ve onaylanmasını bekleyin.</string>
+    <string name="freecashdetay6">Hepsi bu kadar. Ödüle katılmaya ve havuzdaki payınızı almaya hazırsınız.</string>
+    <string name="freecashonay">Freecash.com da vrkrinspect kodunu kullandığımı onaylıyorum.</string>
+
+    <string name="okxdetay1">1- Okx.com sitesine veya mobil uygulamasına kayıt olma işlemine başlayın.</string>
+    <string name="okxdetay2">2- Kayıt olurken referans kısmına 56370804 yazın.</string>
+    <string name="okxdetay3">3- Hesabın oluşması için gerekli doğrulamaları yapın.</string>
+    <string name="okxdetay4">4- Sürpriz kutunuzu açabilirsiniz.</string>
+    <string name="okxonay">Okx.com da referans kodunu kullandığımı onaylıyorum.</string>
+
+    <string name="tarihyaziniz">Tarih</string>
+    <string name="okxaciklama">Bu bölüme OKX e kayıt olduğunuz tarihi yazmalısınız.</string>
+
+    <string name="kayitonay">VLikeit kullanım koşullarını okudum, onaylıyorum.</string>
+
+    <string name="anladim">Anladım</string>
+    <string name="yakinda">Yakında!</string>
+    <string name="takipet">Takip Et</string>
+
+    <string name="sayfa1">Sayfa 1/2</string>
+    <string name="sayfa2">Sayfa 2/2</string>
+
+    <string name="freecashgetiri">Freecash Ömür Boyu Kazancı</string>
+    <string name="freecashgoturu">Freecash Ömür Boyu Katılım Hakkı</string>
+    <string name="freecashgetiritext">Freecash görevi için doğrulandığınızda artık Freecash.com üzerinden kazandığınız miktarın %5 i düzenli olarak Ödüller kısmındaki Freecash ödülüne eklenecek demektir. Daha çok görev yaparak bu havuzu genişletebilirsiniz ve yukarıdan bu miktarları doğrulayabilirsiniz.</string>
+    <string name="freecashgoturutext">Freecash görevi için doğrulandığınızda artık yapacağımız bütün Freecash ödüllerine katılabilirsiniz. Açılışa özel olarak ödüle katılma hakkınızda herhangi bir sınırlama yoktur.</string>
+
+    <string name="okxgetiri">Okx İki Aşamalı Kazancı</string>
+    <string name="okxgoturu">Okx Ömür Boyu Katılım Hakkı</string>
+    <string name="okxgetiritext">Okx görevi iki aşamadan oluşuyor. Birinci aşaması kayıt sürecinizi tamamladıktan sonra kazandığınız gizemli kutu. İkinci aşaması ise 50$ lık ilk işleminizde kazandığınız diğer bir gizemli kutudur. Her yaptığınız görev başına havuza da bir kutu hediye etmiş olursunuz ve bu miktarları yukarıdan doğrulayabilirsiniz.</string>
+    <string name="okxgoturutext">Okx görevi için doğrulandığınızda artık yapacağımız bütün Okx ödüllerine katılabilirsiniz. Açılışa özel olarak ödülüne katılma hakkınızda herhangi bir sınırlama yoktur.</string>
+
+    <string name="toplamreferanskazanci">Toplam Referans Kazancı:</string>
+    <string name="toplamcekiliskazanci">Toplam Ödül Kazancı:</string>
+
+    <string name="toplamteklifsayisi">Toplam 2 Teklif Mevcut.</string>
+    <string name="twittertext">Twitter hesabımızı takip ederek bütün tekliflerden anında haberdar olabilirsiniz.</string>
+
+    <string name="onaylanmadi">Onaylanmadı</string>
+    <string name="onaylandi">Onaylandı</string>
+    <string name="onaybekliyor">Onay Bekliyor</string>
+    <string name="baslanmadi">Başlanmadı</string>
+
+    <string name="okudumonayliyorum">Okudum, Onaylıyorum</string>
+    <string name="siradakiodul">Sıradaki Ödül:</string>
+    <string name="katilimciazaldi">Katılabilecek Kişi Sayısının Azalması</string>
+
+
+    <string name="oduldetaylari">Ödül Detayları</string>
+    <string name="madde1">• Ödüle katılabilmeniz için hesabınızı doğrulamış olmanız ve ilgili ödülün görevini yapmış olmanız gerekir.</string>
+    <string name="madde2">• Ödüle katılımcı sayısı en başta 100dür.</string>
+    <string name="madde3">• Ödüle yeterli katılım sağlanmazsa her gün saat 12de ulaşılması gereken katılımcı sayısından 5 eksiltilir.</string>
+    <string name="kullanimkosullari">Kullanım Koşulları</string>
+    <string name="gunlukodul">Günlük Ödül</string>
+    <string name="gunlukodultext">Her 24 saatte bir buradan günlük ödülünüzü toplayabilirsiniz.</string>
+    <string name="odulutopla">Ödülü Topla</string>
+    <string name="oduluyari">(Çoklu hesap kullanımı tespiti durumunda aynı kişinin açtığı bütün hesaplar yasaklanır.)</string>
+
+    <string name="vris">VRIS</string>
+    <string name="yil">2019-2022</string>
+    <string name="hosgeldin">Hoş Geldin!</string>
+
+</resources>

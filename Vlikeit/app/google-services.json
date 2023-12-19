@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "771394164828",
+    "firebase_url": "https://vris-rkim.firebaseio.com",
+    "project_id": "vris-rkim",
+    "storage_bucket": "vris-rkim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771394164828:android:b8f630696d9f4423922e99",
+        "android_client_info": {
+          "package_name": "com.vris.vlikeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771394164828-ep4grmqv642ptpkc3o08fhjivv84incv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIWqfzEG223Gj63jkZ2GlhU4Sofre4B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771394164828-ep4grmqv642ptpkc3o08fhjivv84incv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771394164828:android:9b4203d0fee7ea5f922e99",
+        "android_client_info": {
+          "package_name": "com.vris.rkim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771394164828-0dfankmq6rgcucjt6e6a5gf53hn0dbnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "b3ffebad0f99b2fb57527bc7846264bfe07ef700"
+          }
+        },
+        {
+          "client_id": "771394164828-6buj3bsmbdh2m4rkj4bks4oc55qmfpo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "eda930853842d112743a0190262ce814728d76ab"
+          }
+        },
+        {
+          "client_id": "771394164828-7ql6ukk7o4osig11o882e5ojiunn2d2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "a8d320658fb2863f7ac2846581b00f6edf212535"
+          }
+        },
+        {
+          "client_id": "771394164828-as502f641egcjvdvcooaup8ap6d1677f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "a25a3b2ad685ea230acde656cab73094c16bf006"
+          }
+        },
+        {
+          "client_id": "771394164828-cd7rac7lr22p2o34gg1hp939930ccoq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "951ece17e955960f729b67b29194c762f536da94"
+          }
+        },
+        {
+          "client_id": "771394164828-ivnahu58pqfavfahne7vv2c3jja2rnd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "68e05c430ee253be7a407c37be44ef79caec53c2"
+          }
+        },
+        {
+          "client_id": "771394164828-jtb8m4i4781n0v5h81lhjbv9omfj5j4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vris.rkim",
+            "certificate_hash": "127b5ae1f55c924e1ea8c5f18d6a2b63231bde27"
+          }
+        },
+        {
+          "client_id": "771394164828-ep4grmqv642ptpkc3o08fhjivv84incv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIWqfzEG223Gj63jkZ2GlhU4Sofre4B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771394164828-ep4grmqv642ptpkc3o08fhjivv84incv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

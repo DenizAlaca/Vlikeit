@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.vris.vlikeit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Testlogin"
+        tools:targetApi="31">
+        <activity
+            android:name=".Daily"
+            android:exported="false" />
+        <activity
+            android:name=".Starter"
+            android:exported="false" />
+        <activity
+            android:name=".Privacy"
+            android:exported="false" />
+        <activity
+            android:name=".OkxGoturu"
+            android:exported="false" />
+        <activity
+            android:name=".OkxGetiri"
+            android:exported="false" />
+        <activity
+            android:name=".BitpandaGoturu"
+            android:exported="false" />
+        <activity
+            android:name=".BitpandaGetiri"
+            android:exported="false" />
+        <activity
+            android:name=".FreecashGoturu"
+            android:exported="false" />
+        <activity
+            android:name=".FreecashGetiri"
+            android:exported="false" />
+        <activity
+            android:name=".ScrollDeneme"
+            android:exported="false" />
+        <activity
+            android:name=".Oduller2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".OkxDetay"
+            android:exported="false" />
+        <activity
+            android:name=".BitexenDetay"
+            android:exported="false" />
+        <activity
+            android:name=".FreecashDetay"
+            android:exported="false" />
+        <activity
+            android:name=".LogIn"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".ResetPassword"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".Forgotpassword"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".Dogrula"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".Oduller"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".MailUpload"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".VersionUpdate"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".Pofile"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".ImageUpload"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".SignUp"
+            android:exported="false"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".Splash"
+            android:exported="true"
+            android:screenOrientation="nosensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
